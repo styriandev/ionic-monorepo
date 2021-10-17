@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { ExampleSharedClass} from '@ionic-workspace/shared-lib';
 
 @Component({
   selector: 'ionic-workspace-root',

@@ -33,6 +33,9 @@
     "demo-app-e2e": {
       "tags": [],
       "implicitDependencies": ["demo-app"]
+    },
+    "shared-lib": {
+      "tags": []
     }
   }
 }

@@ -15,7 +15,9 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "strictPropertyInitialization": false,
-    "paths": {}
+    "paths": {
+      "@ionic-workspace/shared-lib": ["libs/shared-lib/src/index.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
